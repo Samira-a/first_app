@@ -5,6 +5,7 @@ This is the first application for the
 by [Michael Hartl](http://michaelhartl.com/).
 
 Testing for Rubymine and Github
+
 2nd test
 
 This README would normally document whatever steps are necessary to get the
